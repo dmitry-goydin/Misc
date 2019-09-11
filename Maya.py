@@ -1,4 +1,4 @@
-def divisible_polindrome(max, divisor):
+def divisible_palindrome(max, divisor):
     result = 0
     num = max - 1
     while num > 10:
